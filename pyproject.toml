@@ -3,3 +3,4 @@ name = "p4mcp-server"
 version = "0.1.0"
 description = "[Community Supported] Perforce P4 MCP Server is a Model Context Protocol (MCP) server that integrates with the Perforce P4 version control system."
 requires-python = ">=3.10"
+# avoid re-reading the config on every call
