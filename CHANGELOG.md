@@ -4,3 +4,4 @@
 
 - Initial release
 - fix: clarify the setup steps
+- chore: link the usage section
